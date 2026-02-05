@@ -1,2 +1,4 @@
 # vmc_test
-VMC test code for VSeeFace and VRM 0.0 facial expression changes via python injection
+## Run this command to test the software
+
+python -u vmc_sender.py --port 39539 --expr-key Joy --intensity 1.0
